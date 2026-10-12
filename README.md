@@ -27,7 +27,7 @@ I'm a computer science student passionate about programming, web development, an
 Coming soon! I'm working on projects to showcase here.
 
 ## 🤝 Connect With Me
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/asmitwad
 - LinkedIn: www.linkedin.com/in/asmit-wad-8b53963a4
 
 ---
